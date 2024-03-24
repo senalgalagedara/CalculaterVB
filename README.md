@@ -14,4 +14,4 @@ so I wanna say this because there are some limits to using this application
 so I know this is not a perfect one but ill develop it, I need to know urs probs and errors and features to add
 
 
-thanks, guys :)
+thanks :)
