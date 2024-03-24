@@ -1,4 +1,4 @@
-Hi guys I am Senal Galagedara and this is my first software (06D/07/2023)
+this is first shit i build (06D/07/2023)
 
                        "Calculator"
 
