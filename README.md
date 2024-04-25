@@ -1,4 +1,4 @@
-this is first shit i build (06D/07/2023)
+This is the first thing I built (06D/07/2023)
 
                        "Calculator"
 
